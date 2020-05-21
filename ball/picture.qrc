@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="bolckA">Block.png</file>
+        <file alias="blockB">BlockB.png</file>
+        <file alias="cd">choosedown.png</file>
+        <file alias="cl">chooseleft.png</file>
+        <file alias="cr">chooseright.png</file>
+        <file alias="cu">chooseUp.png</file>
+        <file alias="down">down.png</file>
+        <file alias="left">left.png</file>
+        <file alias="right">right.png</file>
+        <file alias="up">up.png</file>
+        <file>chooserightdown.png</file>
+        <file>leftup.png</file>
+        <file>rightdown.png</file>
+        <file>chooseleftup.png</file>
+    </qresource>
+</RCC>

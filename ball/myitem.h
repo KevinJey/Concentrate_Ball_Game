@@ -1,0 +1,15 @@
+#ifndef MYITEM_H
+#define MYITEM_H
+
+#include <QGraphicsPixmapItem>
+
+
+class myitem : public QGraphicsPixmapItem // 从QGraphicsPixmapItem类中继承而来的myitem
+{
+public:
+    myitem();
+  //  static int heighOfpic;
+   // static int wdithOfpic;
+};
+
+#endif // MYITEM_H
