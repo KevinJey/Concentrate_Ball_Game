@@ -3,3 +3,5 @@
 
 ## 玩法
 按下X键触发小球移动 越界会发生警报
+
+![程序界面]('run_img/surface.png','surface')
